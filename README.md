@@ -13,4 +13,4 @@
 
 **Tools:** Python, Unity, C#, Luau, Blender, Git
 
-[LinkedIn](www.linkedin.com/in/nyi-thant-aung-a38175312)
+[LinkedIn](linkedin.com/in/nyi-thant-aung-a38175312)
