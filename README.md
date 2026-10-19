@@ -2,7 +2,7 @@
 
 3rd-year ICT student at Mahidol University (MUICT), AI track. I make games, and I'm learning machine learning by shipping small projects.
 
-**Now:** one DSA problem a day in Python, and building an RL agent that learns to play a game I made.
+**Now:** one DSA problem a day in Python, and building a study assistant that answers questions from your own lecture slides, with citations.
 
 **Projects**
 - [Reel Estate](): Roblox game where you fish up crates to build your own island (game design + AI-assisted development)
